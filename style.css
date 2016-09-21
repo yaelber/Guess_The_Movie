@@ -4,52 +4,69 @@ body {
   background-image: url("halloween4.png");
   color: #ff9900;
   text-align: center;
+  font-family: 'Indie Flower', cursive;
 }
 
 #hocus-pocus{
   width:250px;
-  height: 100px;
-  border:black 2px dotted;
+  height: 200px;
+  border:#ff9900 2px dotted;
   float: left;
   margin:10px;
 }
 
 #halloween{
   width:250px;
-  height: 100px;
-  border:black 2px dotted;
+  height: 200px;
+  border:#ff9900 2px dotted;
   float:left;
   margin:10px;
 }
 
 #nightmare-christmas{
   width:250px;
-  height: 100px;
-  border:black 2px dotted;
+  height: 200px;
+  border:#ff9900 2px dotted;
   float:left;
   margin:10px;
 }
 
 #casper{
   width:250px;
-  height: 100px;
-  border:black 2px dotted;
+  height: 200px;
+  border:#ff9900 2px dotted;
   float: left;
   margin:10px;
 }
 
 #dracula{
   width:250px;
-  height: 100px;
-  border:black 2px dotted;
+  height: 200px;
+  border:#ff9900 2px dotted;
   float:left;
   margin: 10px;
 }
 
-#trick-r-treat{
+#monster{
   width:250px;
-  height: 100px;
-  border:black 2px dotted;
+  height: 200px;
+  border:#ff9900 2px dotted;
   float:left;
   margin: 10px;
 }
+
+.back {
+  position:absolute;
+    top:50%;    
+    left:0;
+    width:100%;
+}
+
+.front {
+  position:absolute;
+    top:7.5%;    
+    left:0;
+    width:100%;
+}
+
+
